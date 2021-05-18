@@ -1,0 +1,23 @@
+{
+  "name": "loanmanagmentrestapi",
+  "version": "1.0.0",
+  "description": "Rest Api for loan management project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoizAnsari9792/LoanManagmentRestApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoizAnsari9792/LoanManagmentRestApi/issues"
+  },
+  "homepage": "https://github.com/MoizAnsari9792/LoanManagmentRestApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
